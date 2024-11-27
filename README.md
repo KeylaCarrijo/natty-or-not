@@ -17,3 +17,5 @@ O e-book apresenta um conteúdo rico em informações sobre como a ferramente é
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência enriquecedora porque assim podemos ver como as IAs Generativas podem nos auxiliar na educação e no dia-a-dia.
+-@falvojr
+
